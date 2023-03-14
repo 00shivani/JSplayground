@@ -1,0 +1,2 @@
+# JSplayground
+JavaScript practice
